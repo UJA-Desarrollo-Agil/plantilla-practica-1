@@ -1,12 +1,8 @@
-# Plantilla Práctica 1
-Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
+# Plantilla Práctica 1### [Esteban Jodar Pozo](ejp00003@red.ujaen.es)
 
-Tu tarea consiste en modificar este fichero README.md de modo que pongas tus datos en formato MarkDown:
+Estudiante de Desarrollo Ágil en la UJA y alumno de @vrivas 
 
-### Víctor M. Rivas Santos
-
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+- **Correo**  :  ejp00003@red.ujaen.es
+- **GitHub**  :  https://github.com/EstebanJodarPozo
+- **Trello**     :  https://trello.com/estebanjodarpozo
+- **Trello_Prac1**  : https://trello.com/b/nk49Iy0e/practica-1
